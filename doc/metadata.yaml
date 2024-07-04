@@ -5,8 +5,17 @@ github_repo: PIND01
 github_url: https://github.com/mlab-modules/PIND01
 homepage: false
 images:
+- doc/gen/img/PIND01-top.png
+- doc/gen/img/PIND01-bottom.png
 - doc/img/PIND01A_QRcode.png
+- doc/gen/PIND01-schematic.svg
+- doc/gen/img/PIND01-bottom.svg
+- doc/gen/img/PIND01-top.svg
+- hw/cam_profi/assembly/PIND01-assembly_page_02.svg
+- hw/cam_profi/assembly/PIND01-assembly_page_01.svg
 mark: 50
+mod_ibom: hw/cam_profi/PIND01-ibom.html
+mod_scheme: doc/gen/PIND01-schematic.pdf
 status: 4
 tags:
 - mlab
@@ -17,4 +26,4 @@ tags:
 - mlab-kicad
 - pcb
 title: PIND01
-updated: '2024-07-04T22:30:32.183696+00:00'
+updated: '2024-07-04T22:32:42.253502+00:00'
