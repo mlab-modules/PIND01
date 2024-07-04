@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","JUMP_2x1","Straight_2x01",21.3360,4.5720,90.0000,top
+"J2","JUMP_2x1","Straight_2x01",23.8760,4.5720,90.0000,top
+"J3","JUMP_2x1","Straight_2x01",26.4160,4.5720,90.0000,top
+"J4","JUMP_2x1","Straight_2x01",28.9560,4.5720,90.0000,top
+"M1","HOLE","MountingHole_3mm",35.5600,5.0800,0.0000,top
+"M2","HOLE","MountingHole_3mm",5.0800,35.5600,0.0000,top
+"M3","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"M4","HOLE","MountingHole_3mm",35.5600,35.5600,0.0000,top
