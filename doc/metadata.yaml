@@ -1,5 +1,6 @@
 description: The module includes a parallel-connected diodes for PINS dosimeter.
 github_branch: PIND01A
+github_description: The module includes a parallel-connected diodes for PINS dosimeter.
 github_repo: PIND01
 github_url: https://github.com/mlab-modules/PIND01
 homepage: false
@@ -16,3 +17,4 @@ tags:
 - mlab-kicad
 - pcb
 title: PIND01
+updated: '2024-07-04T22:30:32.183696+00:00'
